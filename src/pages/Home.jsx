@@ -225,7 +225,7 @@ const Home = () => {
     {
       icon: icon28,
       title: ["Married with One", <br/>, "Spouse in School, One", <br/>, "Working"],
-      link:"/scenario82",
+      link:"/scenario28",
       fontColor:"text-[#FA896B]",
       bgColor: "bg-[#FBF2EF]"
     },
@@ -244,10 +244,6 @@ const Home = () => {
       bgColor: "bg-[#EBF3FE]"
     },
   ]
-
-
-
-
 
   return (
     <div className="h-full bg-[#EBF3FE] flex justify-center px-20 py-10">
